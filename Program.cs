@@ -22,8 +22,6 @@ else
         Search(args[0]);
     }
 
-    Console.WriteLine("Press any key to leave.");
-    Console.ReadKey();
     return 0;
 }
 
